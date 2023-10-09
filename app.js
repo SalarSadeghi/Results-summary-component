@@ -22,13 +22,13 @@ data.forEach((d) => {
   rightItemScore.classList = "rightItemScore";
   rightItemScoreNum.classList = "rightItemScoreNum";
   topleftCorner.classList = "corner";
-  topleftCorner.id = "topleft";
+  topleftCorner.classList.add("topleft");
   toprightCorner.classList = "corner";
-  toprightCorner.id = "topright";
+  toprightCorner.classList.add("topright");
   bottomleftCorner.classList = "corner";
-  bottomleftCorner.id = "bottomleft";
+  bottomleftCorner.classList.add("bottomleft");
   bottomRightCorner.classList = "corner";
-  bottomRightCorner.id = "bottomright";
+  bottomRightCorner.classList.add("bottomright");
   rightItemIcon.classList = "icon"
 
   rightItem.style.backgroundColor = d.backgroundColor;

@@ -126,7 +126,7 @@ body {
   height: 8px;
 }
 
-#topleft {
+.topleft {
   top: 0;
   left: 0;
   border-radius: 10px 0 0 0;
@@ -134,7 +134,7 @@ body {
   border-left: 1px solid #ccc;
 }
 
-#topright {
+.topright {
   top: 0px;
   right: 0px;
   border-radius: 0 10px 0 0;
@@ -142,7 +142,7 @@ body {
   border-right: 1px solid #ccc;
 }
 
-#bottomleft {
+.bottomleft {
   bottom: 0;
   left: 0;
   border-radius: 0 0 0 10px;
@@ -150,7 +150,7 @@ body {
   border-left: 1px solid #ccc;
 }
 
-#bottomright {
+.bottomright {
   bottom: 0;
   right: 0;
   border-radius: 0 0 10px 0;
