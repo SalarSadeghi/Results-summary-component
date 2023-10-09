@@ -33,6 +33,7 @@ data.forEach((d) => {
 
   rightItem.style.backgroundColor = d.backgroundColor;
   rightItemIcon.src = d.icon;
+  rightItemIcon.alt = d.category
   rightItemCat.textContent = d.category;
   rightItemTitle.style.color = d.textColor;
   rightItemTitle.appendChild(rightItemIcon);
