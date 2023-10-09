@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-results-summary-component-using-flexbox-njfqjhdkkd)
-- Live Site URL: [Add live site URL here](https://salarsadeghi.github.io/Results-summary-component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-results-summary-component-using-flexbox-njfqjhdkkd)
+- Live Site URL: [Live site](https://salarsadeghi.github.io/Results-summary-component/)
 
 ## My process
 
